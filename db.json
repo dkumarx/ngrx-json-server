@@ -1,0 +1,138 @@
+{
+"userInfo": [{"isAnonymous": false}],
+"products" : [
+    {
+       "code":"10000-black",
+       "name":"Test Product 1 Black",
+       "url":"/clearance/test-product-1/10000-001",
+       "description":"Duvet Cover Set includes 1 duvet cover and 1 sham (twin) or 2 shams (double).",
+       "shortDescription":"Test Product 1 Short Description",
+       "purchasable":false,
+       "baseProduct":"10000",
+       "images" : {
+           "hero":"",
+           "thumbnail":""
+       },
+       "styleOptions":[
+           {
+             "name":"Black",
+             "code":"10000-black",
+             "selected":true
+           },
+           {
+             "name":"Red",
+             "code":"10000-red"
+           }
+       ],
+       "sizeOptions":[
+           {
+             "name":"Small",
+             "code":"10000-001"
+           },
+           {
+             "name":"Large",
+             "code":"10000-002"
+           }
+       ],
+       "imageOverlays" : {
+           "posLeft": [
+             {
+                 "order":1,
+                 "text":"EXCLUSIVE",
+                 "shape":"RECTANGULAR",
+                 "color":"#e7131a"
+             },
+             {
+                 "order":2,
+                 "text":"Clearance",
+                 "shape":"RECTANGULAR",
+                 "color":"#002a62"
+             }
+           ],
+           "posRight":[
+             {
+                 "order":1,
+                 "text":"Sale",
+                 "shape":"CIRCLE",
+                 "color":"#002a62"
+             }
+           ]
+       },
+       "regPrice" : "$10-$20",
+       "salePrice":"$8-$18",
+       "vipPrice":"$8-$18",
+       "priceDisplayingRule":"ALL_VIP",
+       "uom":"ea",
+       "stockStatus":"InStock",
+       "defaultQuantity":"2",
+       "isMeteredProduct": false
+     },
+     {
+        "code":"10000-001",
+        "name":"Test Product 1 Black Small",
+        "url":"/clearance/test-product-1/10000-001",
+        "description":"Duvet Cover Set includes 1 duvet cover and 1 sham (twin) or 2 shams (double).",
+        "shortDescription":"Test Product 1 Short Description",
+        "purchasable":false,
+        "baseProduct":"10000",
+        "images" : {
+            "hero":"https://www.spotlightstores.com/medias/BP80438982-5.jpg-SPOTWF-productHero?context=bWFzdGVyfGltYWdlc3wxNjk0Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2gyOS8xMDE0NTcyNjY5MzQwNi9CUDgwNDM4OTgyXzUuanBnX1NQT1RXRl9wcm9kdWN0SGVyb3wyNTc5NmZjYjRhZDEwMTlmZDg3MmFlODhhNzVhZTE4YWIyMjBlYTZlMGQxM2E5ZWZhZjg4ZjQ0YWVhYWUxZTk2",
+            "thumbnail":"https://www.spotlightstores.com/medias/BP80438982-5.jpg-SPOTWF-thumbnail?context=bWFzdGVyfGltYWdlc3wzOTE0fGltYWdlL2pwZWd8aW1hZ2VzL2gxZi9oZjkvOTg5NDQ4OTA5NjIyMi9CUDgwNDM4OTgyXzUuanBnX1NQT1RXRl90aHVtYm5haWx8MDk0ZjJiYTI2ZTYwNzZkNjE1MjhkODA4MzdjNTdjMDgxYjA1YzI0YWEyYTRkNDRmNmMxZTIzMjBhMTQ4YTU4Mw"
+        },
+        "styleOptions":[
+            {
+              "name":"Black",
+              "code":"10000-black",
+              "selected":true
+            },
+            {
+              "name":"Red",
+              "code":"10000-red"
+            }
+        ],
+        "sizeOptions":[
+            {
+              "name":"Small",
+              "code":"10000-001",
+              "selected":true
+            },
+            {
+              "name":"Large",
+              "code":"10000-002"
+            }
+        ],
+        "imageOverlays" : {
+            "posLeft": [
+              {
+                  "order":1,
+                  "text":"EXCLUSIVE",
+                  "shape":"RECTANGULAR",
+                  "color":"#e7131a"
+              },
+              {
+                  "order":2,
+                  "text":"Clearance",
+                  "shape":"RECTANGULAR",
+                  "color":"#002a62"
+              }
+            ],
+            "posRight":[
+              {
+                  "order":1,
+                  "text":"Sale",
+                  "shape":"CIRCLE",
+                  "color":"#002a62"
+              }
+            ]
+        },
+        "regPrice" : "$20",
+        "salePrice":"$8",
+        "vipPrice":"",
+        "priceDisplayingRule":"",
+        "uom":"ea",
+        "stockStatus":"InStock",
+        "defaultQuantity":"2",
+        "isMeteredProduct": false
+      }
+  ]
+}
